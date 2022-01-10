@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = marina.ngoyet@hotmail.fr
+	name = marina n'goyet
